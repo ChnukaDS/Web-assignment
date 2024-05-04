@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const Sign = () => {
+export default function Sign(){
   return (
     <div className='main-container'>
     <form className='form'>
