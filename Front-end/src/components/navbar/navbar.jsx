@@ -13,12 +13,12 @@ const Navbar = () => {
                         <ul className='nav-elements'>
                             <li><a href='/'>Product</a></li>
                             <li><a href='/'>Location</a></li>
-                            <li><a href='/'>About</a></li>
+                            <li><a href='/about'>About</a></li>
                             <li><a href='/'>Contact</a></li>
                         </ul>
                         <div className="btn">
-                            <a href='/' className='nav-btn'>Login</a>
-                            <a href='/' className='nav-btn'>Sign In</a>
+                            <a href='/login' className='nav-btn'>Login</a>
+                            <a href='/sign' className='nav-btn'>Sign In</a>
                             <a href='/'>
                                 <img src={cart_logo} alt='shopping-cart-logo' className='shopping-cart' />
                             </a>

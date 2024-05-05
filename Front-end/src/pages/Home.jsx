@@ -6,6 +6,7 @@ import PizzaBurger from "../components/pizzaburger/PizzaBurger";
 import Footer from "../components/footer/Footer";
 
 
+
 export default function Home(){
     return(
         <>
