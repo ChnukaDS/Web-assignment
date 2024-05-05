@@ -1,0 +1,41 @@
+.footer-dine-logo{
+    width: 520px;
+}
+.social-medias li a img {
+    width: 35px;
+}
+.social-medias li {
+    list-style: none;
+}
+.social-medias{
+    display: flex;
+    gap: 2em;
+}
+.first-section{
+    display: flex;
+    background-color: #F26367;
+}
+.social-container {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-left: 30em;
+}
+.footer-container{
+    padding-top: 5em;
+}
+.footer-1-text{
+    text-align: center;
+    color: white;
+}
+.copyright-logo{
+    width: 20px;
+}
+.second-section{
+    display: flex;
+    gap: 1em;
+    justify-content: start;
+    align-items: center;
+    padding: 2em;
+    background-color: #CE2F34;
+}

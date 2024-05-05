@@ -1,0 +1,36 @@
+.pizza-burger{
+    width: 420px;
+}
+.pizza-container{
+    display: flex;
+    padding: 5em 2em 0 2em;
+}
+.pizza-topic{
+    text-align: center;
+    color: #C30208;
+}
+.text{
+    margin: 2em 0 2em 3em;
+}
+.img-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3em;
+}
+.order-btn{
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10em;
+    height: 3em;
+    background-color: #C30208;
+}
+.order-btn a{
+    color: white;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}

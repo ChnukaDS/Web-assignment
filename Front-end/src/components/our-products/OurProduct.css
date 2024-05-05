@@ -1,0 +1,25 @@
+.food-container img{
+    width: 300px;
+}
+.food-container{
+    padding: 3em;
+    
+}
+.food-container .first-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+
+}
+.food-container .second-row{
+    display: flex;
+    gap: 2em;
+    margin-left: 10em;
+    margin: 0 auto;
+    justify-content: center;
+    padding-top: 3em;
+}
+.food-container .first-row,.second-row div{
+    text-align: center;
+}
